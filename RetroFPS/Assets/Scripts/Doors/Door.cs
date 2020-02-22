@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+     * (Santiago Garcia II)
+     * (Door.cs)
+     * (Assignment 5)
+     * (This is the factory where the eneimes are created to shoot at the player )
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

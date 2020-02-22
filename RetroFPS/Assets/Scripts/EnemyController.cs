@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+     * (Santiago Garcia II)
+     * (EnemyController.cs)
+     * (Assignment 5)
+     * (This is the product of the factory)
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

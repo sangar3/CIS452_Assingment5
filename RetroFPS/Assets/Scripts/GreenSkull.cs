@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+     * (Santiago Garcia II)
+     * (GreenSkull.cs)
+     * (Assignment 5)
+     * (The concrete porducts )
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
